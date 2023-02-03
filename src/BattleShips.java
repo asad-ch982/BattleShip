@@ -205,7 +205,7 @@ public class BattleShips {
 
             System.out.println("|" + x);
         }
-
+        // Enjoy the Game
         //Last section of Ocean Map
         System.out.print("  ");
         for(int i = 0; i < numCols; i++)
